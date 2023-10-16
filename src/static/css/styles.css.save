@@ -1,5 +1,5 @@
-body {
-    background-color: #00008B;
+#00008Bbody {
+    background-color: #f4f4f4;
     margin-top: 50px;
     font-family: 'Lato';
 }
