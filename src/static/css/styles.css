@@ -2,6 +2,12 @@ body {
     background-color: #00008B;
     margin-top: 50px;
     font-family: 'Lato';
+    animation: mymove 1s infinite;
+}
+
+@keyframes mymove {
+    from {background-color: yellow;}
+    to {backgound-color: red;}
 }
 
 .item {
